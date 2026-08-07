@@ -16842,9 +16842,17 @@
   "syst_negishikan_173925": {
     "name": "根岸かのん",
     "title": "ゴミと看板と根岸〜上野編〜",
-    "stock": -12,
+    "stock": -15,
     "limit": 0,
     "start": "2026-08-06 20:00",
     "creator_id": "syst_negishikan"
+  },
+  "syst_aimiya_174054": {
+    "name": "愛宮歌梨",
+    "title": "8/7 交換日記マルシェ💌",
+    "stock": 4,
+    "limit": 5,
+    "start": "2026-08-07 19:22",
+    "creator_id": "syst_aimiya"
   }
 }
