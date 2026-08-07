@@ -1,18 +1,14 @@
-name: Marche Monitor
+name: Marche Inventory Bot
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # 5分おきに設定（前述の通り5分が最短推奨）
-  workflow_dispatch: # 手動実行用
-  repository_dispatch: # ← これを追加
-    types: [line_trigger] # 好きな名前でOK
+    # UTCで指定（5分ごとに実行する例: cron '*/5 * * * *'）
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # 手動実行用ボタンも有効化
 
 jobs:
-  check-stock:
+  check:
     runs-on: ubuntu-latest
-    # 書き込み権限を明示的に付与
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
@@ -24,19 +20,19 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
       - name: Run script
         env:
           LINE_ACCESS_TOKEN: ${{ secrets.LINE_ACCESS_TOKEN }}
-          LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
-        run: python marche_monitor.py
+        run: python main.py
 
-      # --- ここでJSONファイルをGitHubリポジトリに保存（Push）する ---
-      - name: Commit and Push JSON
+      - name: Commit and push changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add chum_last_inventory.json
-          # 変更がある場合のみコミットしてプッシュ（エラー回避のため）
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update inventory JSON" && git push)
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add syst_last_inventory.json
+          git commit -m "Update inventory cache [skip ci]" || exit 0
+          git push
