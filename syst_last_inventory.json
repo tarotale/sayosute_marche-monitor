@@ -1946,7 +1946,7 @@
   "syst_shirotanim_174026": {
     "name": "城谷美温",
     "title": "動画マルシェ",
-    "stock": 10,
+    "stock": 0,
     "limit": 10,
     "start": "2026-08-07 21:00",
     "creator_id": "syst_shirotanim"
@@ -16850,7 +16850,7 @@
   "syst_aimiya_174054": {
     "name": "愛宮歌梨",
     "title": "8/7 交換日記マルシェ💌",
-    "stock": 5,
+    "stock": 4,
     "limit": 5,
     "start": "2026-08-07 19:22",
     "creator_id": "syst_aimiya"
