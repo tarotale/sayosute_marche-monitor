@@ -1,9 +1,9 @@
-import requests
 import json
 import os
 import re
-from datetime import datetime, timedelta
 import time
+from datetime import datetime, timedelta
+import requests
 
 # --- 設定 ---
 LINE_TOKEN = os.getenv('LINE_ACCESS_TOKEN')
@@ -24,7 +24,7 @@ def convert_to_jst_full(utc_str):
         dt_utc = datetime.fromisoformat(utc_str.replace('Z', '+00:00'))
         dt_jst = dt_utc + timedelta(hours=9)
         return dt_jst.strftime("%Y-%m-%d %H:%M")
-    except:
+    except Exception:
         return "0000-00-00 00:00"
 
 def send_line(message):
@@ -37,15 +37,22 @@ def send_line(message):
     try:
         res = requests.post(url, headers=headers, json=payload, timeout=15)
         res.raise_for_status()
+        print("LINE送信成功")
     except Exception as e:
         print(f"LINE送信エラー: {e}")
 
 def main():
+    # DBファイルが存在しない場合（＝初回実行時）のフラグ
+    is_first_run = not os.path.exists(DB_FILE)
+    
     last_data = {}
-    if os.path.exists(DB_FILE):
+    if not is_first_run:
         with open(DB_FILE, "r", encoding="utf-8") as f:
-            try: last_data = json.load(f)
-            except: last_data = {}
+            try: 
+                last_data = json.load(f)
+            except Exception as e:
+                print(f"DB読み込みエラー: {e}")
+                last_data = {}
 
     current_all_data = last_data.copy()
     update_list = []  # 新着・復活した商品を溜めるリスト
@@ -59,7 +66,8 @@ def main():
             try:
                 res = requests.get(list_api, headers=headers, timeout=15)
                 products = res.json().get('products', [])
-                if not products: break
+                if not products: 
+                    break
                 
                 for p in products:
                     p_id = str(p.get('id'))
@@ -82,26 +90,40 @@ def main():
                             "start": start_jst # ソート用
                         })
 
-                    current_all_data[db_key] = {"name": c_name, "title": title, "stock": stock, "limit": limit, "start": start_jst, "creator_id": c_id}
+                    current_all_data[db_key] = {
+                        "name": c_name, 
+                        "title": title, 
+                        "stock": stock, 
+                        "limit": limit, 
+                        "start": start_jst, 
+                        "creator_id": c_id
+                    }
                 
-                if len(products) < 100: break
+                if len(products) < 100: 
+                    break
                 offset += 100
                 time.sleep(1)
             except Exception as e:
                 print(f"Error ({c_name}): {e}")
                 break
 
-    # --- ソートと送信 ---
+    # --- 送信ロジック ---
     if update_list:
-        # 販売開始日(start)で降順ソート（新しい順）
-        update_list.sort(key=lambda x: x['start'], reverse=True)
-        
-        # 最新10件を抽出して結合
-        top_10 = update_list[:10]
-        final_msg = "🌟 ChumToto マルシェ更新情報 🌟\n\n" + "\n\n---\n\n".join([item['msg'] for item in top_10])
-        
-        send_line(final_msg)
+        if is_first_run:
+            print("初回実行のため、現在の状態をキャッシュとして保存します（通知はスキップ）。")
+        else:
+            # 販売開始日(start)で降順ソート（新しい順）
+            update_list.sort(key=lambda x: x['start'], reverse=True)
+            
+            # 最新10件を抽出して結合
+            top_10 = update_list[:10]
+            final_msg = "🌟 ChumToto マルシェ更新情報 🌟\n\n" + "\n\n---\n\n".join([item['msg'] for item in top_10])
+            
+            send_line(final_msg)
+    else:
+        print("新規・復活商品は検出されませんでした。")
 
+    # DBの更新
     with open(DB_FILE, "w", encoding="utf-8") as f:
         json.dump(current_all_data, f, ensure_ascii=False, indent=2)
 
