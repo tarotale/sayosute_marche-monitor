@@ -16870,5 +16870,13 @@
     "limit": 8,
     "start": "2026-08-08 10:31",
     "creator_id": "syst_negishikan"
+  },
+  "syst_shirotanim_174214": {
+    "name": "城谷美温",
+    "title": "動画マルシェ",
+    "stock": 10,
+    "limit": 10,
+    "start": "2026-08-09 21:30",
+    "creator_id": "syst_shirotanim"
   }
 }
