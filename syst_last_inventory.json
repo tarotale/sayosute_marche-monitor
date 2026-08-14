@@ -16918,5 +16918,37 @@
     "limit": 5,
     "start": "2026-08-13 16:47",
     "creator_id": "syst_aimiya"
+  },
+  "syst_aimiya_174722": {
+    "name": "愛宮歌梨",
+    "title": "8/14 交換日記マルシェ💌",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-08-14 15:23",
+    "creator_id": "syst_aimiya"
+  },
+  "syst_momonoi_174723": {
+    "name": "桃ノ井理子",
+    "title": "山手線ツアー新宿編🚃メッセージマルシェ",
+    "stock": 10,
+    "limit": 10,
+    "start": "2026-08-14 21:15",
+    "creator_id": "syst_momonoi"
+  },
+  "syst_momonoi_174724": {
+    "name": "桃ノ井理子",
+    "title": "山手線ツアー神田編🚃メッセージマルシェ",
+    "stock": 6,
+    "limit": 6,
+    "start": "2026-08-14 21:45",
+    "creator_id": "syst_momonoi"
+  },
+  "syst_negishikan_174725": {
+    "name": "根岸かのん",
+    "title": "動画まるしぇ",
+    "stock": 8,
+    "limit": 8,
+    "start": "2026-08-14 15:39",
+    "creator_id": "syst_negishikan"
   }
 }
