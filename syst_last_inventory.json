@@ -16962,7 +16962,7 @@
   "syst_negishikan_174944": {
     "name": "根岸かのん",
     "title": "動画まるしぇ",
-    "stock": 6,
+    "stock": 5,
     "limit": 8,
     "start": "2026-08-17 15:20",
     "creator_id": "syst_negishikan"
@@ -16970,7 +16970,7 @@
   "syst_negishikan_174945": {
     "name": "根岸かのん",
     "title": "メッセージまるしぇ",
-    "stock": 4,
+    "stock": 3,
     "limit": 5,
     "start": "2026-08-17 15:20",
     "creator_id": "syst_negishikan"
@@ -16989,6 +16989,22 @@
     "stock": 5,
     "limit": 5,
     "start": "2026-08-17 18:38",
+    "creator_id": "syst_aimiya"
+  },
+  "syst_aimiya_174981": {
+    "name": "愛宮歌梨",
+    "title": "10周年ありがとう❤️メッセージマルシェ",
+    "stock": 10,
+    "limit": 10,
+    "start": "2026-08-17 21:00",
+    "creator_id": "syst_aimiya"
+  },
+  "syst_aimiya_174982": {
+    "name": "愛宮歌梨",
+    "title": "10周年ありがとう❤️動画マルシェ",
+    "stock": 10,
+    "limit": 10,
+    "start": "2026-08-17 21:00",
     "creator_id": "syst_aimiya"
   }
 }
