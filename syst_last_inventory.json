@@ -17002,7 +17002,7 @@
   "syst_aimiya_174982": {
     "name": "愛宮歌梨",
     "title": "10周年ありがとう❤️動画マルシェ",
-    "stock": 1,
+    "stock": 0,
     "limit": 10,
     "start": "2026-08-17 21:00",
     "creator_id": "syst_aimiya"
@@ -17050,7 +17050,7 @@
   "syst_aimiya_175421": {
     "name": "愛宮歌梨",
     "title": "浴衣動画マルシェ🎆",
-    "stock": 4,
+    "stock": 3,
     "limit": 10,
     "start": "2026-08-21 21:00",
     "creator_id": "syst_aimiya"
@@ -17062,5 +17062,13 @@
     "limit": 15,
     "start": "2026-08-21 22:30",
     "creator_id": "syst_momonoi"
+  },
+  "syst_aimiya_175508": {
+    "name": "愛宮歌梨",
+    "title": "8/22 交換日記マルシェ💌",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-08-22 15:00",
+    "creator_id": "syst_aimiya"
   }
 }
