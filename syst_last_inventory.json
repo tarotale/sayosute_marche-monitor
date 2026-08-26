@@ -17118,5 +17118,13 @@
     "limit": 5,
     "start": "2026-08-26 15:00",
     "creator_id": "syst_aimiya"
+  },
+  "syst_monamiakar_176069": {
+    "name": "萌波あかり",
+    "title": "♡8/26動画マルシェ♡",
+    "stock": 10,
+    "limit": 10,
+    "start": "2026-08-26 21:30",
+    "creator_id": "syst_monamiakar"
   }
 }
