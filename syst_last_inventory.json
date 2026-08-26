@@ -17110,5 +17110,13 @@
     "limit": 10,
     "start": "2026-08-25 23:44",
     "creator_id": "syst_negishikan"
+  },
+  "syst_aimiya_176040": {
+    "name": "愛宮歌梨",
+    "title": "8/26 交換日記マルシェ💌",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-08-26 15:00",
+    "creator_id": "syst_aimiya"
   }
 }
