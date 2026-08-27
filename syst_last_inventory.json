@@ -17126,5 +17126,29 @@
     "limit": 10,
     "start": "2026-08-26 21:30",
     "creator_id": "syst_monamiakar"
+  },
+  "syst_aimiya_176143": {
+    "name": "愛宮歌梨",
+    "title": "8/27 交換日記マルシェ💌",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-08-27 17:04",
+    "creator_id": "syst_aimiya"
+  },
+  "syst_momonoi_176150": {
+    "name": "桃ノ井理子",
+    "title": "山手線ツアー田町編メッセージマルシェ🚃 ˎˊ˗",
+    "stock": 7,
+    "limit": 7,
+    "start": "2026-08-27 22:00",
+    "creator_id": "syst_momonoi"
+  },
+  "syst_momonoi_176151": {
+    "name": "桃ノ井理子",
+    "title": "山手線ツアー新大久保編メッセージマルシェ🚃 ˎˊ˗",
+    "stock": 7,
+    "limit": 7,
+    "start": "2026-08-27 22:15",
+    "creator_id": "syst_momonoi"
   }
 }
