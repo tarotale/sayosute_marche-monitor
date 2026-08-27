@@ -17138,7 +17138,7 @@
   "syst_momonoi_176150": {
     "name": "桃ノ井理子",
     "title": "山手線ツアー田町編メッセージマルシェ🚃 ˎˊ˗",
-    "stock": 7,
+    "stock": 2,
     "limit": 7,
     "start": "2026-08-27 22:00",
     "creator_id": "syst_momonoi"
@@ -17146,9 +17146,17 @@
   "syst_momonoi_176151": {
     "name": "桃ノ井理子",
     "title": "山手線ツアー新大久保編メッセージマルシェ🚃 ˎˊ˗",
-    "stock": 7,
+    "stock": 1,
     "limit": 7,
     "start": "2026-08-27 22:15",
     "creator_id": "syst_momonoi"
+  },
+  "syst_negishikan_176191": {
+    "name": "根岸かのん",
+    "title": "動画マルシェ",
+    "stock": 9,
+    "limit": 10,
+    "start": "2026-08-28 01:20",
+    "creator_id": "syst_negishikan"
   }
 }
