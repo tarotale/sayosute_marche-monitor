@@ -1,13 +1,14 @@
 name: Marche Inventory Bot
 
 on:
-  schedule:
-    # UTCで指定（5分ごとに実行する例: cron '*/5 * * * *'）
-    - cron: '*/5 * * * *'
-  workflow_dispatch: # 手動実行用ボタンも有効化
+  repository_dispatch:
+    types: [run_marche_bot] # GAS側から指定するイベント名
+  workflow_dispatch:        # 手動実行ボタン用（残しておくと便利）
+
+# ※既存の schedule: - cron: ... の記述は削除してOKです。
 
 jobs:
-  check:
+  build:
     runs-on: ubuntu-latest
 
     steps:
