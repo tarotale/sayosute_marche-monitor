@@ -17258,7 +17258,7 @@
   "syst_aimiya_176765": {
     "name": "愛宮歌梨",
     "title": "山手線ツアー🚃田町駅編メッセージマルシェ",
-    "stock": 5,
+    "stock": 6,
     "limit": 6,
     "start": "2026-09-01 21:00",
     "creator_id": "syst_aimiya"
@@ -17266,7 +17266,7 @@
   "syst_aimiya_176766": {
     "name": "愛宮歌梨",
     "title": "山手線ツアー🚃新大久保駅編メッセージマルシェ",
-    "stock": 5,
+    "stock": 6,
     "limit": 6,
     "start": "2026-09-01 21:00",
     "creator_id": "syst_aimiya"
@@ -17282,7 +17282,7 @@
   "syst_negishikan_176780": {
     "name": "根岸かのん",
     "title": "動画マルシェ",
-    "stock": 0,
+    "stock": 2,
     "limit": 10,
     "start": "2026-09-01 13:18",
     "creator_id": "syst_negishikan"
@@ -17290,7 +17290,7 @@
   "syst_shirotanim_176870": {
     "name": "城谷美温",
     "title": "【城谷美温】9月限定お楽しみ画像（カレンダー）",
-    "stock": 0,
+    "stock": -3,
     "limit": 0,
     "start": "2026-09-01 21:00",
     "creator_id": "syst_shirotanim"
@@ -17298,7 +17298,7 @@
   "syst_aimiya_176865": {
     "name": "愛宮歌梨",
     "title": " 【愛宮歌梨】9月限定お楽しみ画像（カレンダー）",
-    "stock": 0,
+    "stock": -1,
     "limit": 0,
     "start": "2026-09-01 21:00",
     "creator_id": "syst_aimiya"
