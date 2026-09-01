@@ -17286,5 +17286,45 @@
     "limit": 10,
     "start": "2026-09-01 13:18",
     "creator_id": "syst_negishikan"
+  },
+  "syst_shirotanim_176870": {
+    "name": "城谷美温",
+    "title": "【城谷美温】9月限定お楽しみ画像（カレンダー）",
+    "stock": 0,
+    "limit": 0,
+    "start": "2026-09-01 21:00",
+    "creator_id": "syst_shirotanim"
+  },
+  "syst_aimiya_176865": {
+    "name": "愛宮歌梨",
+    "title": " 【愛宮歌梨】9月限定お楽しみ画像（カレンダー）",
+    "stock": 0,
+    "limit": 0,
+    "start": "2026-09-01 21:00",
+    "creator_id": "syst_aimiya"
+  },
+  "syst_momonoi_176868": {
+    "name": "桃ノ井理子",
+    "title": "【桃ノ井理子】9月限定お楽しみ画像（カレンダー）",
+    "stock": 0,
+    "limit": 0,
+    "start": "2026-09-01 21:00",
+    "creator_id": "syst_momonoi"
+  },
+  "syst_monamiakar_176871": {
+    "name": "萌波あかり",
+    "title": "【萌波あかり】9月限定お楽しみ画像（カレンダー）",
+    "stock": 0,
+    "limit": 0,
+    "start": "2026-09-01 21:00",
+    "creator_id": "syst_monamiakar"
+  },
+  "syst_hinagaharu_176874": {
+    "name": "日永陽咲",
+    "title": "【萌波あかり】9月限定お楽しみ画像（カレンダー）",
+    "stock": 0,
+    "limit": 0,
+    "start": "2026-09-01 21:00",
+    "creator_id": "syst_hinagaharu"
   }
 }
