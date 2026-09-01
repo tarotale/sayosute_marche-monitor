@@ -17238,5 +17238,13 @@
     "limit": 10,
     "start": "2026-08-31 22:15",
     "creator_id": "syst_momonoi"
+  },
+  "syst_aimiya_176760": {
+    "name": "愛宮歌梨",
+    "title": "【9月】お誕生日お祝いマルシェ🎂",
+    "stock": 15,
+    "limit": 15,
+    "start": "2026-09-01 11:17",
+    "creator_id": "syst_aimiya"
   }
 }
