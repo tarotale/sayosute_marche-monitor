@@ -17462,5 +17462,29 @@
     "limit": 5,
     "start": "2026-09-09 17:20",
     "creator_id": "syst_aimiya"
+  },
+  "syst_negishikan_177719": {
+    "name": "根岸かのん",
+    "title": "動画マルシェ",
+    "stock": 5,
+    "limit": 6,
+    "start": "2026-09-10 13:41",
+    "creator_id": "syst_negishikan"
+  },
+  "syst_negishikan_177720": {
+    "name": "根岸かのん",
+    "title": "メッセージまるしぇ",
+    "stock": 6,
+    "limit": 6,
+    "start": "2026-09-10 13:41",
+    "creator_id": "syst_negishikan"
+  },
+  "syst_negishikan_177722": {
+    "name": "根岸かのん",
+    "title": "メッセージまるしぇ",
+    "stock": 6,
+    "limit": 6,
+    "start": "2026-09-10 13:42",
+    "creator_id": "syst_negishikan"
   }
 }
