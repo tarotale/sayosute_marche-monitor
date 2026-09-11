@@ -17306,7 +17306,7 @@
   "syst_momonoi_176868": {
     "name": "桃ノ井理子",
     "title": "【桃ノ井理子】9月限定お楽しみ画像（カレンダー）",
-    "stock": -3,
+    "stock": -4,
     "limit": 0,
     "start": "2026-09-01 21:00",
     "creator_id": "syst_momonoi"
@@ -17493,6 +17493,14 @@
     "stock": 5,
     "limit": 5,
     "start": "2026-09-10 18:27",
+    "creator_id": "syst_aimiya"
+  },
+  "syst_aimiya_177884": {
+    "name": "愛宮歌梨",
+    "title": "9/11 交換日記マルシェ💌",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-09-11 15:02",
     "creator_id": "syst_aimiya"
   }
 }
