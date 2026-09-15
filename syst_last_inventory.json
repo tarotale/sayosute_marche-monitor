@@ -17290,7 +17290,7 @@
   "syst_shirotanim_176870": {
     "name": "城谷美温",
     "title": "【城谷美温】9月限定お楽しみ画像（カレンダー）",
-    "stock": -6,
+    "stock": -7,
     "limit": 0,
     "start": "2026-09-01 21:00",
     "creator_id": "syst_shirotanim"
@@ -17322,7 +17322,7 @@
   "syst_hinagaharu_176874": {
     "name": "日永陽咲",
     "title": "【日永陽咲】9月限定お楽しみ画像（カレンダー）",
-    "stock": -6,
+    "stock": -7,
     "limit": 0,
     "start": "2026-09-01 21:00",
     "creator_id": "syst_hinagaharu"
@@ -17566,5 +17566,53 @@
     "limit": 5,
     "start": "2026-09-15 15:00",
     "creator_id": "syst_aimiya"
+  },
+  "syst_shirotanim_178260": {
+    "name": "城谷美温",
+    "title": "【城谷】浴衣チェキ&アクスタ オンラインサイン会(追加販売分)",
+    "stock": 8,
+    "limit": 8,
+    "start": "2026-09-15 18:00",
+    "creator_id": "syst_shirotanim"
+  },
+  "syst_aimiya_178256": {
+    "name": "愛宮歌梨",
+    "title": "【愛宮】浴衣チェキ&アクスタ オンラインサイン会(追加販売分)",
+    "stock": 10,
+    "limit": 10,
+    "start": "2026-09-15 18:00",
+    "creator_id": "syst_aimiya"
+  },
+  "syst_momonoi_178257": {
+    "name": "桃ノ井理子",
+    "title": "【桃ノ井】浴衣チェキ&アクスタ オンラインサイン会(追加販売分)",
+    "stock": 6,
+    "limit": 6,
+    "start": "2026-09-15 18:00",
+    "creator_id": "syst_momonoi"
+  },
+  "syst_monamiakar_178259": {
+    "name": "萌波あかり",
+    "title": "【萌波】浴衣チェキ&アクスタ オンラインサイン会(追加販売分)",
+    "stock": 7,
+    "limit": 7,
+    "start": "2026-09-15 18:00",
+    "creator_id": "syst_monamiakar"
+  },
+  "syst_hinagaharu_178261": {
+    "name": "日永陽咲",
+    "title": "【日永】浴衣チェキ&アクスタ オンラインサイン会(追加販売分)",
+    "stock": 9,
+    "limit": 9,
+    "start": "2026-09-15 18:00",
+    "creator_id": "syst_hinagaharu"
+  },
+  "syst_negishikan_178258": {
+    "name": "根岸かのん",
+    "title": "【根岸】浴衣チェキ&アクスタ オンラインサイン会(追加販売分)",
+    "stock": 7,
+    "limit": 7,
+    "start": "2026-09-15 18:00",
+    "creator_id": "syst_negishikan"
   }
 }
