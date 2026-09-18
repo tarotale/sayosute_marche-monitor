@@ -17514,7 +17514,7 @@
   "syst_momonoi_177888": {
     "name": "桃ノ井理子",
     "title": "山手線ツアーメッセージマルシェ🚃巣鴨駅編",
-    "stock": 1,
+    "stock": 0,
     "limit": 7,
     "start": "2026-09-11 22:15",
     "creator_id": "syst_momonoi"
@@ -17645,6 +17645,14 @@
     "stock": 5,
     "limit": 5,
     "start": "2026-09-17 21:57",
+    "creator_id": "syst_aimiya"
+  },
+  "syst_aimiya_178638": {
+    "name": "愛宮歌梨",
+    "title": "9/18 交換日記マルシェ💌",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-09-18 22:31",
     "creator_id": "syst_aimiya"
   }
 }
