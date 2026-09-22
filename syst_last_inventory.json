@@ -17666,7 +17666,7 @@
   "syst_negishikan_178925": {
     "name": "根岸かのん",
     "title": "動画まるしぇ",
-    "stock": 4,
+    "stock": 3,
     "limit": 5,
     "start": "2026-09-22 14:52",
     "creator_id": "syst_negishikan"
@@ -17678,5 +17678,13 @@
     "limit": 4,
     "start": "2026-09-22 14:54",
     "creator_id": "syst_negishikan"
+  },
+  "syst_aimiya_178931": {
+    "name": "愛宮歌梨",
+    "title": "9/22 交換日記マルシェ💌",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-09-22 15:47",
+    "creator_id": "syst_aimiya"
   }
 }
