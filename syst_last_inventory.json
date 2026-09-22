@@ -17662,5 +17662,21 @@
     "limit": 10,
     "start": "2026-09-19 21:40",
     "creator_id": "syst_negishikan"
+  },
+  "syst_negishikan_178925": {
+    "name": "根岸かのん",
+    "title": "動画まるしぇ",
+    "stock": 4,
+    "limit": 5,
+    "start": "2026-09-22 14:52",
+    "creator_id": "syst_negishikan"
+  },
+  "syst_negishikan_178926": {
+    "name": "根岸かのん",
+    "title": "メッセージまるしぇ",
+    "stock": 3,
+    "limit": 4,
+    "start": "2026-09-22 14:54",
+    "creator_id": "syst_negishikan"
   }
 }
