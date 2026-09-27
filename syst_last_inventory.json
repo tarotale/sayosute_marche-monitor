@@ -17722,7 +17722,7 @@
   "syst_aimiya_179388": {
     "name": "愛宮歌梨",
     "title": "9/27 交換日記マルシェ💌",
-    "stock": 5,
+    "stock": 4,
     "limit": 5,
     "start": "2026-09-27 15:00",
     "creator_id": "syst_aimiya"
@@ -17730,9 +17730,17 @@
   "syst_hinagaharu_179413": {
     "name": "日永陽咲",
     "title": "制服メッセージマルシェ📖",
-    "stock": 15,
+    "stock": 0,
     "limit": 15,
     "start": "2026-09-27 20:00",
     "creator_id": "syst_hinagaharu"
+  },
+  "syst_negishikan_179420": {
+    "name": "根岸かのん",
+    "title": "動画まるしぇ",
+    "stock": 8,
+    "limit": 8,
+    "start": "2026-09-27 20:07",
+    "creator_id": "syst_negishikan"
   }
 }
