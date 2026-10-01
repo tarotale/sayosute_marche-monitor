@@ -17798,5 +17798,29 @@
     "limit": 9,
     "start": "2026-10-01 12:15",
     "creator_id": "syst_negishikan"
+  },
+  "syst_aimiya_179980": {
+    "name": "愛宮歌梨",
+    "title": "【10月】お誕生日お祝いマルシェ🎂（メッセージ）",
+    "stock": 10,
+    "limit": 10,
+    "start": "2026-10-01 16:52",
+    "creator_id": "syst_aimiya"
+  },
+  "syst_aimiya_179981": {
+    "name": "愛宮歌梨",
+    "title": "【10月】お誕生日お祝いマルシェ🎂（動画）",
+    "stock": 15,
+    "limit": 15,
+    "start": "2026-10-01 16:54",
+    "creator_id": "syst_aimiya"
+  },
+  "syst_aimiya_179984": {
+    "name": "愛宮歌梨",
+    "title": "10/1 交換日記マルシェ💌",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-10-01 16:57",
+    "creator_id": "syst_aimiya"
   }
 }
