@@ -17858,7 +17858,7 @@
   "syst_momonoi_180103": {
     "name": "桃ノ井理子",
     "title": "山手線ツアー代々木編🚃メッセージマルシェ",
-    "stock": 1,
+    "stock": 2,
     "limit": 7,
     "start": "2026-10-02 22:15",
     "creator_id": "syst_momonoi"
@@ -17866,7 +17866,7 @@
   "syst_monamiakar_180131": {
     "name": "萌波あかり",
     "title": "【萌波あかり】10月限定お楽しみ画像（カレンダー）",
-    "stock": 0,
+    "stock": -5,
     "limit": 0,
     "start": "2026-10-02 23:15",
     "creator_id": "syst_monamiakar"
