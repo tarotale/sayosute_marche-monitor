@@ -17878,5 +17878,13 @@
     "limit": 5,
     "start": "2026-10-03 15:00",
     "creator_id": "syst_aimiya"
+  },
+  "syst_aimiya_180177": {
+    "name": "愛宮歌梨",
+    "title": "大阪Vlog風動画マルシェ🐙",
+    "stock": 7,
+    "limit": 7,
+    "start": "2026-10-03 18:00",
+    "creator_id": "syst_aimiya"
   }
 }
