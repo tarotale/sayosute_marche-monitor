@@ -17926,5 +17926,21 @@
     "limit": 5,
     "start": "2026-10-06 15:00",
     "creator_id": "syst_aimiya"
+  },
+  "syst_negishikan_180526": {
+    "name": "根岸かのん",
+    "title": "メッセージまるしぇ",
+    "stock": 10,
+    "limit": 10,
+    "start": "2026-10-07 01:09",
+    "creator_id": "syst_negishikan"
+  },
+  "syst_negishikan_180527": {
+    "name": "根岸かのん",
+    "title": "動画まるしぇ",
+    "stock": 8,
+    "limit": 8,
+    "start": "2026-10-07 01:10",
+    "creator_id": "syst_negishikan"
   }
 }
