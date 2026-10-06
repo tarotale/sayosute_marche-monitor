@@ -17914,9 +17914,17 @@
   "syst_hinagaharu_180366": {
     "name": "日永陽咲",
     "title": "【日永陽咲】10月限定お楽しみ画像（カレンダー）",
-    "stock": 0,
+    "stock": -1,
     "limit": 0,
     "start": "2026-10-05 21:15",
     "creator_id": "syst_hinagaharu"
+  },
+  "syst_aimiya_180450": {
+    "name": "愛宮歌梨",
+    "title": "10/6 交換日記マルシェ💌",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-10-06 15:00",
+    "creator_id": "syst_aimiya"
   }
 }
