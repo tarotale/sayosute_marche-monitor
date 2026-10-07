@@ -17914,7 +17914,7 @@
   "syst_hinagaharu_180366": {
     "name": "日永陽咲",
     "title": "【日永陽咲】10月限定お楽しみ画像（カレンダー）",
-    "stock": -2,
+    "stock": -4,
     "limit": 0,
     "start": "2026-10-05 21:15",
     "creator_id": "syst_hinagaharu"
@@ -17942,5 +17942,13 @@
     "limit": 8,
     "start": "2026-10-07 01:10",
     "creator_id": "syst_negishikan"
+  },
+  "syst_momonoi_180611": {
+    "name": "桃ノ井理子",
+    "title": "はなみゅかりっこー大阪🐙メッセージマルシェ",
+    "stock": 7,
+    "limit": 7,
+    "start": "2026-10-07 22:15",
+    "creator_id": "syst_momonoi"
   }
 }
