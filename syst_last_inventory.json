@@ -18002,9 +18002,25 @@
   "syst_monamiakar_181161": {
     "name": "萌波あかり",
     "title": "ディアステ制服メッセージマルシェ",
-    "stock": 10,
+    "stock": 0,
     "limit": 10,
     "start": "2026-10-13 12:30",
     "creator_id": "syst_monamiakar"
+  },
+  "syst_aimiya_181181": {
+    "name": "愛宮歌梨",
+    "title": "10/13 交換日記マルシェ💌",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-10-13 15:00",
+    "creator_id": "syst_aimiya"
+  },
+  "syst_aimiya_181182": {
+    "name": "愛宮歌梨",
+    "title": "山手線ツアー秋葉原編🚃メッセージマルシェ",
+    "stock": 6,
+    "limit": 6,
+    "start": "2026-10-13 20:00",
+    "creator_id": "syst_aimiya"
   }
 }
