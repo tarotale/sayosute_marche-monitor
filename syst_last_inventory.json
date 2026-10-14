@@ -18022,5 +18022,13 @@
     "limit": 6,
     "start": "2026-10-13 20:00",
     "creator_id": "syst_aimiya"
+  },
+  "syst_aimiya_181311": {
+    "name": "愛宮歌梨",
+    "title": "10/14 交換日記マルシェ💌",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-10-14 15:00",
+    "creator_id": "syst_aimiya"
   }
 }
