@@ -18086,5 +18086,21 @@
     "limit": 10,
     "start": "2026-10-17 22:30",
     "creator_id": "syst_monamiakar"
+  },
+  "syst_aimiya_181663": {
+    "name": "愛宮歌梨",
+    "title": "山手線ツアー新橋編🚃動画マルシェ",
+    "stock": 6,
+    "limit": 6,
+    "start": "2026-10-18 10:00",
+    "creator_id": "syst_aimiya"
+  },
+  "syst_aimiya_181664": {
+    "name": "愛宮歌梨",
+    "title": "10/18 交換日記マルシェ💌",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-10-18 15:00",
+    "creator_id": "syst_aimiya"
   }
 }
