@@ -18134,5 +18134,13 @@
     "limit": 5,
     "start": "2026-10-20 15:00",
     "creator_id": "syst_aimiya"
+  },
+  "syst_negishikan_182092": {
+    "name": "根岸かのん",
+    "title": "動画まるしぇ",
+    "stock": 8,
+    "limit": 8,
+    "start": "2026-10-21 01:54",
+    "creator_id": "syst_negishikan"
   }
 }
