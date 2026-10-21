@@ -18146,7 +18146,7 @@
   "syst_shirotanim_182117": {
     "name": "城谷美温",
     "title": "🚃五反田駅メッセージマルシェ",
-    "stock": 1,
+    "stock": 0,
     "limit": 5,
     "start": "2026-10-21 21:00",
     "creator_id": "syst_shirotanim"
@@ -18154,7 +18154,7 @@
   "syst_shirotanim_182118": {
     "name": "城谷美温",
     "title": "🚃巣鴨駅メッセージマルシェ",
-    "stock": 5,
+    "stock": 1,
     "limit": 5,
     "start": "2026-10-21 21:10",
     "creator_id": "syst_shirotanim"
