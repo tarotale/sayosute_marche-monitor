@@ -18158,5 +18158,21 @@
     "limit": 5,
     "start": "2026-10-21 21:10",
     "creator_id": "syst_shirotanim"
+  },
+  "syst_shirotanim_182119": {
+    "name": "城谷美温",
+    "title": "🚃おかわり新宿駅メッセージマルシェ",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-10-21 21:20",
+    "creator_id": "syst_shirotanim"
+  },
+  "syst_shirotanim_182120": {
+    "name": "城谷美温",
+    "title": "🚃代々木駅メッセージマルシェ",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-10-21 21:30",
+    "creator_id": "syst_shirotanim"
   }
 }
