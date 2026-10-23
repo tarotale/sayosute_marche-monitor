@@ -18206,5 +18206,13 @@
     "limit": 7,
     "start": "2026-10-23 22:15",
     "creator_id": "syst_momonoi"
+  },
+  "syst_negishikan_182414": {
+    "name": "根岸かのん",
+    "title": "メッセージまるしぇ",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-10-24 00:16",
+    "creator_id": "syst_negishikan"
   }
 }
