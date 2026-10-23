@@ -18194,7 +18194,7 @@
   "syst_momonoi_182372": {
     "name": "桃ノ井理子",
     "title": "山手線ツアー秋葉原編メッセージマルシェ🚃",
-    "stock": 7,
+    "stock": 0,
     "limit": 7,
     "start": "2026-10-23 22:00",
     "creator_id": "syst_momonoi"
@@ -18202,7 +18202,7 @@
   "syst_momonoi_182374": {
     "name": "桃ノ井理子",
     "title": "山手線ツアー新橋編メッセージマルシェ🚃",
-    "stock": 7,
+    "stock": 3,
     "limit": 7,
     "start": "2026-10-23 22:15",
     "creator_id": "syst_momonoi"
