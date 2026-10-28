@@ -18230,5 +18230,21 @@
     "limit": 5,
     "start": "2026-10-27 15:00",
     "creator_id": "syst_aimiya"
+  },
+  "syst_negishikan_182959": {
+    "name": "根岸かのん",
+    "title": "ワンマンありがとうまるしぇ",
+    "stock": 5,
+    "limit": 7,
+    "start": "2026-10-28 09:26",
+    "creator_id": "syst_negishikan"
+  },
+  "syst_negishikan_182960": {
+    "name": "根岸かのん",
+    "title": "ワンマンありがとうまるしぇ②",
+    "stock": 7,
+    "limit": 7,
+    "start": "2026-10-28 09:27",
+    "creator_id": "syst_negishikan"
   }
 }
