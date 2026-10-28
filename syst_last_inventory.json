@@ -18138,7 +18138,7 @@
   "syst_negishikan_182092": {
     "name": "根岸かのん",
     "title": "動画まるしぇ",
-    "stock": 1,
+    "stock": 0,
     "limit": 8,
     "start": "2026-10-21 01:54",
     "creator_id": "syst_negishikan"
@@ -18234,7 +18234,7 @@
   "syst_negishikan_182959": {
     "name": "根岸かのん",
     "title": "ワンマンありがとうまるしぇ",
-    "stock": 6,
+    "stock": 4,
     "limit": 7,
     "start": "2026-10-28 09:26",
     "creator_id": "syst_negishikan"
@@ -18245,6 +18245,14 @@
     "stock": 6,
     "limit": 7,
     "start": "2026-10-28 09:27",
+    "creator_id": "syst_negishikan"
+  },
+  "syst_negishikan_182975": {
+    "name": "根岸かのん",
+    "title": "動画まるしぇ",
+    "stock": 8,
+    "limit": 8,
+    "start": "2026-10-28 12:31",
     "creator_id": "syst_negishikan"
   }
 }
