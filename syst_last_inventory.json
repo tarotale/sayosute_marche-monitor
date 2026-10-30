@@ -18286,5 +18286,21 @@
     "limit": 7,
     "start": "2026-10-29 14:05",
     "creator_id": "syst_aimiya"
+  },
+  "syst_momonoi_183285": {
+    "name": "桃ノ井理子",
+    "title": "ツアーファイナルメッセージマルシェ🚃 ˎˊ˗",
+    "stock": 15,
+    "limit": 15,
+    "start": "2026-10-30 22:00",
+    "creator_id": "syst_momonoi"
+  },
+  "syst_momonoi_183286": {
+    "name": "桃ノ井理子",
+    "title": "ピンクチャイナ🍥動画マルシェ",
+    "stock": 15,
+    "limit": 15,
+    "start": "2026-10-30 22:15",
+    "creator_id": "syst_momonoi"
   }
 }
