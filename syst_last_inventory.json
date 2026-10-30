@@ -18258,7 +18258,7 @@
   "syst_monamiakar_182989": {
     "name": "萌波あかり",
     "title": "新衣装メッセージマルシェ",
-    "stock": 1,
+    "stock": 2,
     "limit": 20,
     "start": "2026-10-28 21:00",
     "creator_id": "syst_monamiakar"
@@ -18290,7 +18290,7 @@
   "syst_momonoi_183285": {
     "name": "桃ノ井理子",
     "title": "ツアーファイナルメッセージマルシェ🚃 ˎˊ˗",
-    "stock": 5,
+    "stock": 6,
     "limit": 15,
     "start": "2026-10-30 22:15",
     "creator_id": "syst_momonoi"
@@ -18298,7 +18298,7 @@
   "syst_momonoi_183286": {
     "name": "桃ノ井理子",
     "title": "ピンクチャイナ🍥動画マルシェ",
-    "stock": 15,
+    "stock": 5,
     "limit": 15,
     "start": "2026-10-30 22:30",
     "creator_id": "syst_momonoi"
