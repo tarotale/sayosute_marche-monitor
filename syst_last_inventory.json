@@ -18398,5 +18398,13 @@
     "limit": 1,
     "start": "2026-11-03 08:57",
     "creator_id": "syst_shirotanim"
+  },
+  "syst_shirotanim_184098": {
+    "name": "城谷美温",
+    "title": "即納！動画マルシェ",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-11-03 14:00",
+    "creator_id": "syst_shirotanim"
   }
 }
