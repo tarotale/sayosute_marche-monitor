@@ -18390,5 +18390,13 @@
     "limit": 4,
     "start": "2026-11-03 08:41",
     "creator_id": "syst_shirotanim"
+  },
+  "syst_shirotanim_184096": {
+    "name": "城谷美温",
+    "title": "動画マルシェ",
+    "stock": 0,
+    "limit": 1,
+    "start": "2026-11-03 08:57",
+    "creator_id": "syst_shirotanim"
   }
 }
