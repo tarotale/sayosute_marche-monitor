@@ -18402,7 +18402,7 @@
   "syst_shirotanim_184098": {
     "name": "城谷美温",
     "title": "即納！動画マルシェ",
-    "stock": 5,
+    "stock": 0,
     "limit": 5,
     "start": "2026-11-03 14:00",
     "creator_id": "syst_shirotanim"
@@ -18418,7 +18418,7 @@
   "syst_negishikan_184111": {
     "name": "根岸かのん",
     "title": "動画マルシェ",
-    "stock": 9,
+    "stock": 8,
     "limit": 9,
     "start": "2026-11-03 13:25",
     "creator_id": "syst_negishikan"
