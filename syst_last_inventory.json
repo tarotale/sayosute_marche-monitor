@@ -18450,7 +18450,7 @@
   "syst_negishikan_184395": {
     "name": "根岸かのん",
     "title": "根岸かのんオンライン特典会「かにょちゃんのデコチェキ屋さん」(縦チェキ1枚)",
-    "stock": 1,
+    "stock": 0,
     "limit": 14,
     "start": "2026-11-06 17:00",
     "creator_id": "syst_negishikan"
@@ -18461,6 +18461,14 @@
     "stock": 0,
     "limit": 6,
     "start": "2026-11-06 17:00",
+    "creator_id": "syst_negishikan"
+  },
+  "syst_negishikan_184447": {
+    "name": "根岸かのん",
+    "title": "【追加販売】根岸かのんオンライン特典会「かにょちゃんのデコチェキ屋さん」(縦チェキ1枚)",
+    "stock": 20,
+    "limit": 20,
+    "start": "2026-11-06 22:00",
     "creator_id": "syst_negishikan"
   }
 }
