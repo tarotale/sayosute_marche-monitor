@@ -18446,5 +18446,21 @@
     "limit": 5,
     "start": "2026-11-06 15:00",
     "creator_id": "syst_aimiya"
+  },
+  "syst_negishikan_184395": {
+    "name": "根岸かのん",
+    "title": "根岸かのんオンライン特典会「かにょちゃんのデコチェキ屋さん」(縦チェキ1枚)",
+    "stock": 14,
+    "limit": 14,
+    "start": "2026-11-06 17:00",
+    "creator_id": "syst_negishikan"
+  },
+  "syst_negishikan_184396": {
+    "name": "根岸かのん",
+    "title": "根岸かのんオンライン特典会「かにょちゃんのデコチェキ屋さん」(縦横2枚セット)",
+    "stock": 6,
+    "limit": 6,
+    "start": "2026-11-06 17:00",
+    "creator_id": "syst_negishikan"
   }
 }
