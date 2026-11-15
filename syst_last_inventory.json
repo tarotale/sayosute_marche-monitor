@@ -18550,5 +18550,13 @@
     "limit": 5,
     "start": "2026-11-14 15:00",
     "creator_id": "syst_aimiya"
+  },
+  "syst_negishikan_185348": {
+    "name": "根岸かのん",
+    "title": "動画マルシェ",
+    "stock": 6,
+    "limit": 6,
+    "start": "2026-11-15 12:49",
+    "creator_id": "syst_negishikan"
   }
 }
