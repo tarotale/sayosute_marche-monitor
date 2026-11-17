@@ -18570,7 +18570,7 @@
   "syst_aimiya_185466": {
     "name": "愛宮歌梨",
     "title": "6周年動画マルシェ❣️",
-    "stock": 5,
+    "stock": 4,
     "limit": 7,
     "start": "2026-11-16 18:00",
     "creator_id": "syst_aimiya"
@@ -18605,6 +18605,14 @@
     "stock": 7,
     "limit": 7,
     "start": "2026-11-17 17:18",
+    "creator_id": "syst_negishikan"
+  },
+  "syst_negishikan_185589": {
+    "name": "根岸かのん",
+    "title": "メッセージまるしぇ",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-11-17 17:19",
     "creator_id": "syst_negishikan"
   }
 }
