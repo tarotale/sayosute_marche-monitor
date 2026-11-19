@@ -18602,7 +18602,7 @@
   "syst_negishikan_185587": {
     "name": "根岸かのん",
     "title": "動画マルシェ",
-    "stock": 1,
+    "stock": 0,
     "limit": 7,
     "start": "2026-11-17 17:18",
     "creator_id": "syst_negishikan"
@@ -18622,5 +18622,13 @@
     "limit": 20,
     "start": "2026-11-19 18:00",
     "creator_id": "syst_monamiakar"
+  },
+  "syst_aimiya_185776": {
+    "name": "愛宮歌梨",
+    "title": "11/19 交換日記マルシェ💌",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-11-19 15:00",
+    "creator_id": "syst_aimiya"
   }
 }
