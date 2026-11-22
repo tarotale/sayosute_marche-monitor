@@ -18662,5 +18662,29 @@
     "limit": 20,
     "start": "2026-11-23 12:00",
     "creator_id": "syst_monamiakar"
+  },
+  "syst_negishikan_186066": {
+    "name": "根岸かのん",
+    "title": "【根岸かのん】ハロウィン衣装オンラインサイン会(縦チェキ)",
+    "stock": 20,
+    "limit": 20,
+    "start": "2026-11-23 12:00",
+    "creator_id": "syst_negishikan"
+  },
+  "syst_negishikan_186067": {
+    "name": "根岸かのん",
+    "title": "【根岸かのん】ハロウィン衣装オンラインサイン会(横チェキ)",
+    "stock": 20,
+    "limit": 20,
+    "start": "2026-11-23 12:00",
+    "creator_id": "syst_negishikan"
+  },
+  "syst_negishikan_186069": {
+    "name": "根岸かのん",
+    "title": "【根岸かのん】ハロウィンオンラインサイン会(宿題デコチェキ)",
+    "stock": 15,
+    "limit": 15,
+    "start": "2026-11-23 12:00",
+    "creator_id": "syst_negishikan"
   }
 }
