@@ -18686,5 +18686,21 @@
     "limit": 15,
     "start": "2026-11-23 12:00",
     "creator_id": "syst_negishikan"
+  },
+  "syst_negishikan_186137": {
+    "name": "根岸かのん",
+    "title": "動画マルシェ",
+    "stock": 8,
+    "limit": 8,
+    "start": "2026-11-23 10:26",
+    "creator_id": "syst_negishikan"
+  },
+  "syst_negishikan_186138": {
+    "name": "根岸かのん",
+    "title": "メッセージマルシェ",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-11-23 10:29",
+    "creator_id": "syst_negishikan"
   }
 }
