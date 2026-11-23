@@ -18362,7 +18362,7 @@
   "syst_aimiya_183926": {
     "name": "愛宮歌梨",
     "title": "11月手書きカレンダー🗓",
-    "stock": -3,
+    "stock": -4,
     "limit": 0,
     "start": "2026-11-01 22:36",
     "creator_id": "syst_aimiya"
@@ -18702,5 +18702,13 @@
     "limit": 5,
     "start": "2026-11-23 10:29",
     "creator_id": "syst_negishikan"
+  },
+  "syst_aimiya_186213": {
+    "name": "愛宮歌梨",
+    "title": "11/21 交換日記マルシェ💌",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-11-23 22:43",
+    "creator_id": "syst_aimiya"
   }
 }
