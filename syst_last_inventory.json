@@ -18658,7 +18658,7 @@
   "syst_monamiakar_186056": {
     "name": "萌波あかり",
     "title": "萌波あかりオンラインサイン会(追加販売分)",
-    "stock": 17,
+    "stock": 16,
     "limit": 20,
     "start": "2026-11-23 12:00",
     "creator_id": "syst_monamiakar"
@@ -18714,7 +18714,7 @@
   "syst_shirotanim_186234": {
     "name": "城谷美温",
     "title": "即納！動画マルシェ",
-    "stock": 7,
+    "stock": 0,
     "limit": 7,
     "start": "2026-11-24 12:30",
     "creator_id": "syst_shirotanim"
@@ -18722,7 +18722,7 @@
   "syst_monamiakar_186237": {
     "name": "萌波あかり",
     "title": "♡11/24動画マルシェ♡",
-    "stock": 10,
+    "stock": 0,
     "limit": 10,
     "start": "2026-11-24 12:30",
     "creator_id": "syst_monamiakar"
