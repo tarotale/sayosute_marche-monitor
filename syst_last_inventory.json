@@ -18710,5 +18710,13 @@
     "limit": 5,
     "start": "2026-11-23 22:43",
     "creator_id": "syst_aimiya"
+  },
+  "syst_shirotanim_186234": {
+    "name": "城谷美温",
+    "title": "即納！動画マルシェ",
+    "stock": 10,
+    "limit": 10,
+    "start": "2026-11-24 12:30",
+    "creator_id": "syst_shirotanim"
   }
 }
