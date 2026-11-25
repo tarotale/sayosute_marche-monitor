@@ -18750,5 +18750,13 @@
     "limit": 5,
     "start": "2026-11-25 15:00",
     "creator_id": "syst_aimiya"
+  },
+  "syst_aimiya_186373": {
+    "name": "愛宮歌梨",
+    "title": "サイバー猫🩵メッセージマルシェ",
+    "stock": 10,
+    "limit": 10,
+    "start": "2026-11-25 21:00",
+    "creator_id": "syst_aimiya"
   }
 }
