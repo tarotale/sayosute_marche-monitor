@@ -18770,7 +18770,7 @@
   "syst_negishikan_186618": {
     "name": "根岸かのん",
     "title": "沖縄遠征動画マルシェ",
-    "stock": 7,
+    "stock": 6,
     "limit": 10,
     "start": "2026-11-27 13:22",
     "creator_id": "syst_negishikan"
@@ -18782,5 +18782,13 @@
     "limit": 5,
     "start": "2026-11-27 13:23",
     "creator_id": "syst_negishikan"
+  },
+  "syst_aimiya_186639": {
+    "name": "愛宮歌梨",
+    "title": "沖縄からお届け動画マルシェ🌺",
+    "stock": 9,
+    "limit": 10,
+    "start": "2026-11-27 16:31",
+    "creator_id": "syst_aimiya"
   }
 }
