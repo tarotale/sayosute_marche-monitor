@@ -18758,5 +18758,29 @@
     "limit": 10,
     "start": "2026-11-25 21:00",
     "creator_id": "syst_aimiya"
+  },
+  "syst_aimiya_186620": {
+    "name": "愛宮歌梨",
+    "title": "11/27 交換日記マルシェ💌",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-11-27 15:00",
+    "creator_id": "syst_aimiya"
+  },
+  "syst_negishikan_186618": {
+    "name": "根岸かのん",
+    "title": "沖縄遠征動画マルシェ",
+    "stock": 8,
+    "limit": 10,
+    "start": "2026-11-27 13:22",
+    "creator_id": "syst_negishikan"
+  },
+  "syst_negishikan_186619": {
+    "name": "根岸かのん",
+    "title": "メッセージマルシェ",
+    "stock": 5,
+    "limit": 5,
+    "start": "2026-11-27 13:23",
+    "creator_id": "syst_negishikan"
   }
 }
